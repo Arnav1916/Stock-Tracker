@@ -12,7 +12,7 @@ This is a Streamlit-based web application for tracking and forecasting stock pri
 1. Clone the repository.
 2. Create a `.env` file in the root directory with your Alpha Vantage API key.
 3. Install the required libraries:
-## Dependencies
+### Dependencies:
 - Streamlit
 - Pandas
 - Yfinance
